@@ -29,11 +29,11 @@ I'm group manager bot and Anti-scam for RR Players🃏
 Active Anti-scam protection in your BM by this command : 
 /antiscam on 
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+My owner is [ItsPahul 🇮🇳](t.me/Its_Pahul)
 
-Special thanks to [this person](t.me/denver02) for helping me.
 
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
+
+Enjoy me as much as u want bcz i dont mind anything xD
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
